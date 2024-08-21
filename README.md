@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76e1b469-cf10-4766-a6ca-8657c9c43756)![image](https://github.com/user-attachments/assets/b044d5d3-6c4e-425b-bc3b-8fbd331440a4)# ONLINE-TICKET-BOOKING-SYSTEM  
+# ONLINE-TICKET-BOOKING-SYSTEM  
 
 1.INTRODUCTION TO ONLINE MOVIE TICKET BOOKING SYSTEM:
 
